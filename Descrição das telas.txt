@@ -1,0 +1,14 @@
+Aplicativo de Vacinas
+
+Tela 1 e 2:
+Na primeira tela a parte superior estará a logo (um pequeno design de vacina) para se familiarizar com a página. Já abaixo haverá as opções de cadastro também representadas com pequenos designs, que são a google, facebook ou Gov e para acessar qualquer uma delas é necessário que o usuário informe seu e-mail e senha nas abas especificas que estão denominadas. Temos também a opção de guardar as informações que se selecionada o usuário não precisará ficar mais colocando seus dados para acessar o app.
+Na parte inferior temos o botão de login, uma opção de acessar uma segunda tela para recuperar a senha e a última opção para se cadastrar criando uma conta própria.
+
+Tela 3: 
+Nesta tela consiste em criar uma conta, nela temos a logo e 5 abas de interação, na primeira serve para adicionar um nome, na segunda um e-mail, a terceira um telefone, a quarta a criação da senha e na última a confirmação, finalizando esse processo temos o botão de login na parte inferior, para se cadastrar e acessar o app.
+
+Tela 4 :
+A tela de recuperação de senha é composta por duas etapas a de confirmação de e-mail, onde o usuário acessará seu e-mail correspondente e confirmará sua interação com um link enviado por lá, caso não tenha recebido tem a opção de reenviar digitando novamente seu e-mail. Só depois da confirmação o usuário será levado a uma tela para redefinição de senha, onde será disponível as abas de criar a nova senha e confirmar a senha, finalizando com o botão de login na parte inferior da tela.
+
+Tela 5: 
+No perfil do usuário ele poderá alterar sua senha, definir seu endereço, configurar notificações e solicitar suporte do app. Além dessas opções há a aba que te redireciona para seu cronograma de vacinas.
